@@ -1,0 +1,390 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 04 Oct 2024 15:51:45 at http://ccvcl.org +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://ccvcl.org -O1 "D:\CCvclweb\CCvcl" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:57:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 13896898 got 1999939): ccvcl.org/wp-content/uploads/2024/09/CUNY-GC_PhD-Thesis_Xuan_Wang-2024.pdf
+15:58:03	Warning: 	file not stored in cache due to bogus state (broken size, expected 6779138 got 1807220): ccvcl.org/wp-content/uploads/2023/11/20231010-Ribbon-Copy-SYSTEM-AND-METHOD-FOR-REAL-TIME-INDOOR-NAVIGATION.pdf
+15:58:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 14315714 got 1807219): ccvcl.org/wp-content/uploads/2023/08/JL_Thesis.pdf
+15:58:48	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/feed/ (from ccvcl.org/)
+15:58:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 10139670 got 1486019): ccvcl.org/wp-content/uploads/2023/08/JinChen_MasterThesis_ObjectDetectionSystem.pdf
+15:58:50	Warning: 	Retry after error -4 (No data (connection closed)) at link ccvcl.org/comments/feed/ (from ccvcl.org/)
+15:59:32	Warning: 	Retry after error -4 (Incorrect length (1999939 Bytes, 13896898 expected)) at link ccvcl.org/wp-content/uploads/2024/09/CUNY-GC_PhD-Thesis_Xuan_Wang-2024.pdf (from ccvcl.org/)
+15:59:37	Warning: 	Retry after error -4 (Incorrect length (1807220 Bytes, 6779138 expected)) at link ccvcl.org/wp-content/uploads/2023/11/20231010-Ribbon-Copy-SYSTEM-AND-METHOD-FOR-REAL-TIME-INDOOR-NAVIGATION.pdf (from ccvcl.org/)
+16:00:48	Warning: 	Retry after error -4 (Incorrect length (1807219 Bytes, 14315714 expected)) at link ccvcl.org/wp-content/uploads/2023/08/JL_Thesis.pdf (from ccvcl.org/)
+16:00:50	Warning: 	Retry after error -4 (Incorrect length (1486019 Bytes, 10139670 expected)) at link ccvcl.org/wp-content/uploads/2023/08/JinChen_MasterThesis_ObjectDetectionSystem.pdf (from ccvcl.org/)
+20:40:43	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/feed/ (from ccvcl.org/)
+20:40:44	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/comments/feed/ (from ccvcl.org/)
+20:40:49	Warning: 	Moved Permanently for ccvcl.org/?p=1750
+20:40:49	Warning: 	File has moved from ccvcl.org/?p=1750 to http://ccvcl.org/ic-cae-ai4ia/
+20:41:05	Warning: 	Moved Permanently for ccvcl.org/?p=361
+20:41:05	Warning: 	File has moved from ccvcl.org/?p=361 to http://ccvcl.org/smart-and-accessible-transportation-hub/
+20:41:05	Warning: 	Moved Permanently for ccvcl.org/?p=338
+20:41:05	Warning: 	File has moved from ccvcl.org/?p=338 to http://ccvcl.org/previous-activities/
+20:41:06	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/computer-vision-and-image-processing-spring-2020/
+20:41:06	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/computer-vision-and-image-processing-spring-2020/ to http://ccvcl.org/computer-vision-and-image-processing-spring-2020/
+20:41:09	Error: 	"Not Found" (404) at link ccvcl.org/~khoo/REM2014.1.html (from ccvcl.org/previous-activities/)
+20:41:09	Warning: 	Moved Permanently for ccvcl.org/?p=91
+20:41:09	Warning: 	File has moved from ccvcl.org/?p=91 to http://ccvcl.org/people/
+21:05:40	Warning: 	Moved Permanently for ccvcl.org/?p=93
+21:05:40	Warning: 	File has moved from ccvcl.org/?p=93 to http://ccvcl.org/research-projects/
+21:10:28	Warning: 	Moved Permanently for ccvcl.org/?p=102
+21:10:28	Warning: 	File has moved from ccvcl.org/?p=102 to http://ccvcl.org/publications/
+21:10:28	Warning: 	Moved Permanently for ccvcl.org/?p=98
+21:10:28	Warning: 	File has moved from ccvcl.org/?p=98 to http://ccvcl.org/courses/
+22:44:23	Warning: 	Moved Permanently for ccvcl.org/human-computer-vision-with-advanced-topics-spring-2023/
+22:44:23	Warning: 	File has moved from ccvcl.org/human-computer-vision-with-advanced-topics-spring-2023/ to http://ccvcl.org/professor-zhigang-zhu/human-computer-vision-with-advanced-topics-spring-2023/
+23:31:26	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/computer-vision-and-image-processing-spring-2021/
+23:31:26	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/computer-vision-and-image-processing-spring-2021/ to http://ccvcl.org/computer-vision-and-image-processing-spring-2021/
+23:31:27	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/data-structures-spring-2021/
+23:31:27	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/data-structures-spring-2021/ to http://ccvcl.org/data-structures-spring-2021/
+23:31:29	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/csc-59866-7-capstone-i-ii-fall-2020-spring-2021/
+23:31:29	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/csc-59866-7-capstone-i-ii-fall-2020-spring-2021/ to http://ccvcl.org/csc-59866-7-capstone-i-ii-fall-2020-spring-2021/
+23:31:31	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/computer-vision-fall-2020/
+23:31:31	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/computer-vision-fall-2020/ to http://ccvcl.org/computer-vision-fall-2020/
+23:49:15	Warning: 	Moved Permanently for ccvcl.org/computer-vision-fall-2019/
+23:49:15	Warning: 	File has moved from ccvcl.org/computer-vision-fall-2019/ to http://ccvcl.org/home/computer-vision-fall-2019/
+23:49:38	Error: 	"No data (connection closed)" (-4) after 2 retries at link ccvcl.org/feed/ (from ccvcl.org/)
+23:49:38	Error: 	"No data (connection closed)" (-4) after 2 retries at link ccvcl.org/comments/feed/ (from ccvcl.org/)
+23:49:38	Warning: 	Moved Permanently for ccvcl.org/?p=1834
+23:49:38	Warning: 	File has moved from ccvcl.org/?p=1834 to http://ccvcl.org/ic-cae-ai4ia/ai4ia-rakesh-teddy-kumar/
+23:49:38	Warning: 	Moved Permanently for ccvcl.org/?p=1946
+23:49:38	Warning: 	File has moved from ccvcl.org/?p=1946 to http://ccvcl.org/ic-cae-ai4ia/ai4ia-colloquium-speaker-erik-blasch/
+23:49:38	Warning: 	Moved Permanently for ccvcl.org/?p=2402
+23:49:38	Warning: 	File has moved from ccvcl.org/?p=2402 to http://ccvcl.org/ic-cae-ai4ia/ai4ia-colloquium-speaker-fred-roberts/
+23:49:38	Warning: 	Moved Permanently for ccvcl.org/?p=2649
+23:49:38	Warning: 	File has moved from ccvcl.org/?p=2649 to http://ccvcl.org/ic-cae-ai4ia/ai4ia-colloquium-speaker-greg-olmschenk/
+23:49:38	Warning: 	Moved Permanently for ccvcl.org/?p=2663
+23:49:38	Warning: 	File has moved from ccvcl.org/?p=2663 to http://ccvcl.org/ic-cae-ai4ia/ai4ia-colloquium-panel-benjamin-rosado-jin-chen-and-tyler-franklin/
+23:49:38	Warning: 	Moved Permanently for ccvcl.org/?p=2921
+23:49:38	Warning: 	File has moved from ccvcl.org/?p=2921 to http://ccvcl.org/ic-cae-ai4ia/ai4ia-colloquium-speaker-mubarak-shah/
+23:49:38	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/category/uncategorized/feed/ (from ccvcl.org/category/uncategorized/)
+23:49:57	Warning: 	Moved Permanently for ccvcl.org/?p=592
+23:49:57	Warning: 	File has moved from ccvcl.org/?p=592 to http://ccvcl.org/olmschenk-dissertation/
+23:49:57	Warning: 	Moved Permanently for ccvcl.org/?p=641
+23:49:57	Warning: 	File has moved from ccvcl.org/?p=641 to http://ccvcl.org/professor-zhigang-zhu/
+23:49:57	Warning: 	Moved Permanently for ccvcl.org/?p=725
+23:49:57	Warning: 	File has moved from ccvcl.org/?p=725 to http://ccvcl.org/greg-olmschenk/
+23:49:57	Error: 	"Not Found" (404) at link ccvcl.org/media/css/home.css (from ccvcl.org/~fhu/)
+00:21:26	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/~fhu/Smart311.mp4 (from ccvcl.org/~fhu/)
+00:25:52	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/multimodal-collaborative-sensing-and-identification-using-deep-learning-for-intelligence-surveillance-and-reconnaissance-isr-applications/feed/ (from ccvcl.org/multimodal-collaborative-sensing-and-identification-using-deep-learning-for-intelligence-surveillance-and-reconnaissance-isr-applications/)
+00:26:00	Warning: 	Moved Permanently for ccvcl.org/?p=365
+00:26:00	Warning: 	File has moved from ccvcl.org/?p=365 to http://ccvcl.org/multimodal-collaborative-sensing-and-identification-using-deep-learning-for-intelligence-surveillance-and-reconnaissance-isr-applications/
+00:26:00	Warning: 	Retry after error -4 (No data (connection closed)) at link ccvcl.org/course-and-program-assistive-technologies-for-the-blind/feed/ (from ccvcl.org/course-and-program-assistive-technologies-for-the-blind/)
+00:26:20	Warning: 	Moved Permanently for ccvcl.org/?p=369
+00:26:20	Warning: 	File has moved from ccvcl.org/?p=369 to http://ccvcl.org/course-and-program-assistive-technologies-for-the-blind/
+00:26:20	Warning: 	Retry after error -4 (No data (connection closed)) at link ccvcl.org/efri-m3c-map4vip-man-machine-co-learning-for-visually-impaired-people/feed/ (from ccvcl.org/efri-m3c-map4vip-man-machine-co-learning-for-visually-impaired-people/)
+00:26:51	Warning: 	Moved Permanently for ccvcl.org/?p=374
+00:26:51	Warning: 	File has moved from ccvcl.org/?p=374 to http://ccvcl.org/efri-m3c-map4vip-man-machine-co-learning-for-visually-impaired-people/
+00:28:21	Warning: 	Retry after error -4 (No data (connection closed)) at link ccvcl.org/a-system-approach-to-adaptive-multi-modal-sensor-designs/feed/ (from ccvcl.org/a-system-approach-to-adaptive-multi-modal-sensor-designs/)
+00:28:21	Warning: 	Moved Permanently for ccvcl.org/?p=377
+00:28:21	Warning: 	File has moved from ccvcl.org/?p=377 to http://ccvcl.org/a-system-approach-to-adaptive-multi-modal-sensor-designs/
+00:28:21	Warning: 	Retry after error -4 (No data (connection closed)) at link ccvcl.org/nsf-computing-research-infrastructure-cri-program-center-of-perceptual-robotics-intelligent-sensors-and-machines-prism/feed/ (from ccvcl.org/nsf-computing-research-infrastructure-cri-program-center-of-perceptual-robotics-intelligent-sensors-and-machines-prism/)
+00:28:21	Warning: 	Moved Permanently for ccvcl.org/?p=380
+00:28:21	Warning: 	File has moved from ccvcl.org/?p=380 to http://ccvcl.org/nsf-computing-research-infrastructure-cri-program-center-of-perceptual-robotics-intelligent-sensors-and-machines-prism/
+00:28:21	Warning: 	Retry after error -4 (No data (connection closed)) at link ccvcl.org/cb3m-content-based-3d-mosaics-with-dynamic-pushbroom-stereo/feed/ (from ccvcl.org/cb3m-content-based-3d-mosaics-with-dynamic-pushbroom-stereo/)
+00:28:21	Warning: 	Moved Permanently for ccvcl.org/?p=382
+00:28:21	Warning: 	File has moved from ccvcl.org/?p=382 to http://ccvcl.org/cb3m-content-based-3d-mosaics-with-dynamic-pushbroom-stereo/
+00:28:40	Warning: 	Retry after error -4 (No data (connection closed)) at link ccvcl.org/cooperative-wall-climbing-robots-for-surveillance-and-target-tracking/feed/ (from ccvcl.org/cooperative-wall-climbing-robots-for-surveillance-and-target-tracking/)
+00:28:40	Warning: 	Moved Permanently for ccvcl.org/?p=385
+00:28:40	Warning: 	File has moved from ccvcl.org/?p=385 to http://ccvcl.org/cooperative-wall-climbing-robots-for-surveillance-and-target-tracking/
+00:28:40	Warning: 	Moved Permanently for ccvcl.org/?p=388
+00:28:40	Warning: 	File has moved from ccvcl.org/?p=388 to http://ccvcl.org/single-array-multimodal-sensing-with-hyperspctral-polarization-and-high-accurate-3d-measurements/
+00:28:40	Warning: 	Retry after error -4 (No data (connection closed)) at link ccvcl.org/gamma-x-ray-linear-pushbroom-stereo-for-3d-cargo-inspection/feed/ (from ccvcl.org/gamma-x-ray-linear-pushbroom-stereo-for-3d-cargo-inspection/)
+00:28:40	Warning: 	Moved Permanently for ccvcl.org/?p=391
+00:28:40	Warning: 	File has moved from ccvcl.org/?p=391 to http://ccvcl.org/gamma-x-ray-linear-pushbroom-stereo-for-3d-cargo-inspection/
+00:28:40	Warning: 	Moved Permanently for ccvcl.org/?p=394
+00:28:40	Warning: 	File has moved from ccvcl.org/?p=394 to http://ccvcl.org/remote-hearing-multimodal-human-signature-detection-via-ptz-ir-and-ldv-sensors/
+00:28:40	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/ieee-nsf-workshop-on-multimodal-and-alternative-perception-for-visually-impaired-people-map4vip/feed/ (from ccvcl.org/ieee-nsf-workshop-on-multimodal-and-alternative-perception-for-visually-impaired-people-map4vip/)
+00:30:21	Warning: 	Moved Permanently for ccvcl.org/?p=397
+00:30:21	Warning: 	File has moved from ccvcl.org/?p=397 to http://ccvcl.org/ieee-nsf-workshop-on-multimodal-and-alternative-perception-for-visually-impaired-people-map4vip/
+00:30:40	Warning: 	Retry after error -4 (No data (connection closed)) at link ccvcl.org/i-corpstransforming-2d-video-into-an-interactive-3d-viewing-experience/feed/ (from ccvcl.org/i-corpstransforming-2d-video-into-an-interactive-3d-viewing-experience/)
+00:30:40	Warning: 	Moved Permanently for ccvcl.org/?p=400
+00:30:40	Warning: 	File has moved from ccvcl.org/?p=400 to http://ccvcl.org/i-corpstransforming-2d-video-into-an-interactive-3d-viewing-experience/
+00:30:40	Warning: 	Moved Permanently for ccvcl.org/?p=403
+00:30:40	Warning: 	File has moved from ccvcl.org/?p=403 to http://ccvcl.org/virtualized-classroom-the-next-generation-e-learning-system/
+00:30:40	Warning: 	Retry after error -4 (No data (connection closed)) at link ccvcl.org/2d-parallel-mosaics-for-under-vehicle-inspection/feed/ (from ccvcl.org/2d-parallel-mosaics-for-under-vehicle-inspection/)
+00:30:40	Warning: 	Moved Permanently for ccvcl.org/?p=406
+00:30:40	Warning: 	File has moved from ccvcl.org/?p=406 to http://ccvcl.org/2d-parallel-mosaics-for-under-vehicle-inspection/
+00:30:40	Warning: 	Retry after error -4 (No data (connection closed)) at link ccvcl.org/high-accuracy-on-line-measurement-system-of-important-parts/feed/ (from ccvcl.org/high-accuracy-on-line-measurement-system-of-important-parts/)
+00:30:40	Warning: 	Moved Permanently for ccvcl.org/?p=409
+00:30:40	Warning: 	File has moved from ccvcl.org/?p=409 to http://ccvcl.org/high-accuracy-on-line-measurement-system-of-important-parts/
+00:30:40	Warning: 	Retry after error -4 (No data (connection closed)) at link ccvcl.org/panoramic-virtual-stereo-and-human-tracking-in-a-smart-room/feed/ (from ccvcl.org/panoramic-virtual-stereo-and-human-tracking-in-a-smart-room/)
+00:32:40	Warning: 	Moved Permanently for ccvcl.org/?p=412
+00:32:40	Warning: 	File has moved from ccvcl.org/?p=412 to http://ccvcl.org/panoramic-virtual-stereo-and-human-tracking-in-a-smart-room/
+00:32:40	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/geo-registered-mosaicing-and-stereo-mosaicing-for-environmental-monitoring/feed/ (from ccvcl.org/geo-registered-mosaicing-and-stereo-mosaicing-for-environmental-monitoring/)
+00:32:40	Warning: 	Moved Permanently for ccvcl.org/?p=415
+00:32:40	Warning: 	File has moved from ccvcl.org/?p=415 to http://ccvcl.org/geo-registered-mosaicing-and-stereo-mosaicing-for-environmental-monitoring/
+00:32:40	Warning: 	Retry after error -4 (No data (connection closed)) at link ccvcl.org/prism-parallel-ray-interpolation-for-stereo-mosaicing/feed/ (from ccvcl.org/prism-parallel-ray-interpolation-for-stereo-mosaicing/)
+00:32:40	Warning: 	Moved Permanently for ccvcl.org/?p=418
+00:32:40	Warning: 	File has moved from ccvcl.org/?p=418 to http://ccvcl.org/prism-parallel-ray-interpolation-for-stereo-mosaicing/
+00:32:40	Warning: 	Retry after error -4 (No data (connection closed)) at link ccvcl.org/lamp-3d-layered-adaptive-resolution-and-multi-perspective-panorama/feed/ (from ccvcl.org/lamp-3d-layered-adaptive-resolution-and-multi-perspective-panorama/)
+00:32:40	Warning: 	Moved Permanently for ccvcl.org/?p=421
+00:32:40	Warning: 	File has moved from ccvcl.org/?p=421 to http://ccvcl.org/lamp-3d-layered-adaptive-resolution-and-multi-perspective-panorama/
+00:32:40	Warning: 	Moved Permanently for ccvcl.org/?p=427
+00:32:40	Warning: 	File has moved from ccvcl.org/?p=427 to http://ccvcl.org/video-stabilization-camera-stabilization-based-on-2-5d-motion-estimation-and-inertial-motion-filtering/
+00:32:40	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/post-visual-navigation-by-integrating-panoramic-vision-omnidirectional-vision-and-stereo-vision/feed/ (from ccvcl.org/post-visual-navigation-by-integrating-panoramic-vision-omnidirectional-vision-and-stereo-vision/)
+00:34:40	Warning: 	Moved Permanently for ccvcl.org/?p=429
+00:34:40	Warning: 	File has moved from ccvcl.org/?p=429 to http://ccvcl.org/post-visual-navigation-by-integrating-panoramic-vision-omnidirectional-vision-and-stereo-vision/
+00:34:40	Warning: 	Moved Permanently for ccvcl.org/?p=431
+00:34:40	Warning: 	File has moved from ccvcl.org/?p=431 to http://ccvcl.org/visatram-a-vision-system-for-automatic-traffic-monitoring/
+00:34:40	Warning: 	Retry after error -4 (No data (connection closed)) at link ccvcl.org/localization-and-recognition-of-characters-and-numbers-on-moving-freight-trains/feed/ (from ccvcl.org/localization-and-recognition-of-characters-and-numbers-on-moving-freight-trains/)
+00:34:40	Warning: 	Moved Permanently for ccvcl.org/?p=424
+00:34:40	Warning: 	File has moved from ccvcl.org/?p=424 to http://ccvcl.org/localization-and-recognition-of-characters-and-numbers-on-moving-freight-trains/
+00:34:40	Warning: 	Moved Permanently for ccvcl.org/?p=3247
+00:34:40	Warning: 	File has moved from ccvcl.org/?p=3247 to http://ccvcl.org/professor-zhigang-zhu/csc-59866-7-capstone-i-ii-fall-2023-spring-2024/
+00:52:30	Warning: 	Moved Permanently for ccvcl.org/?p=3224
+00:52:30	Warning: 	File has moved from ccvcl.org/?p=3224 to http://ccvcl.org/professor-zhigang-zhu/computer-vision-fall-2023/
+01:23:22	Warning: 	Moved Permanently for ccvcl.org/?p=2820
+01:23:22	Warning: 	File has moved from ccvcl.org/?p=2820 to http://ccvcl.org/professor-zhigang-zhu/data-structures-spring-2023/
+01:23:22	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/csc-212-assignment-1-spring-2023/
+01:23:22	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/csc-212-assignment-1-spring-2023/ to http://ccvcl.org/csc-212-assignment-1-spring-2023/
+01:23:24	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/csc212-assignment-2-spring-2023/
+01:23:24	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/csc212-assignment-2-spring-2023/ to http://ccvcl.org/csc212-assignment-2-spring-2023/
+01:23:25	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/csc212-assignment-3-spring-2023/
+01:23:25	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/csc212-assignment-3-spring-2023/ to http://ccvcl.org/csc212-assignment-3-spring-2023/
+01:23:27	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/csc212-assignment-4-spring-2023/
+01:23:27	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/csc212-assignment-4-spring-2023/ to http://ccvcl.org/csc212-assignment-4-spring-2023/
+01:23:28	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/csc212-assignment-5-spring-2023/
+01:23:28	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/csc212-assignment-5-spring-2023/ to http://ccvcl.org/csc212-assignment-5-spring-2023/
+01:23:35	Warning: 	Moved Permanently for ccvcl.org/?p=2589
+01:23:35	Warning: 	File has moved from ccvcl.org/?p=2589 to http://ccvcl.org/csc-59866-7-capstone-i-ii-fall-2022-spring-2023/
+01:23:47	Warning: 	Moved Permanently for ccvcl.org/?p=2279
+01:23:47	Warning: 	File has moved from ccvcl.org/?p=2279 to http://ccvcl.org/professor-zhigang-zhu/csc-471-computer-vision-spring-2022/
+01:24:07	Warning: 	Moved Permanently for ccvcl.org/?p=2262
+01:24:07	Warning: 	File has moved from ccvcl.org/?p=2262 to http://ccvcl.org/professor-zhigang-zhu/computer-vision-and-image-processing-spring-2022/
+01:24:25	Warning: 	Moved Permanently for ccvcl.org/?p=2072
+01:24:25	Warning: 	File has moved from ccvcl.org/?p=2072 to http://ccvcl.org/professor-zhigang-zhu/csc-59866-7-capstone-i-ii-fall-2021-spring-2022/
+01:24:37	Warning: 	Moved Permanently for ccvcl.org/?p=2104
+01:24:37	Warning: 	File has moved from ccvcl.org/?p=2104 to http://ccvcl.org/professor-zhigang-zhu/computer-vision-fall-2021/
+01:36:09	Warning: 	Moved Permanently for ccvcl.org/?p=849
+01:36:09	Warning: 	File has moved from ccvcl.org/?p=849 to http://ccvcl.org/computer-vision-and-image-processing-spring-2020/
+01:36:10	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/computer-vision-and-image-processing-spring-2020/computer-vision-spring-2020-assignment-1/
+01:36:10	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/computer-vision-and-image-processing-spring-2020/computer-vision-spring-2020-assignment-1/ to http://ccvcl.org/
+01:36:10	Warning: 	Moved Permanently for ccvcl.org/computer-vision-spring-2020-assignment-2/
+01:36:10	Warning: 	File has moved from ccvcl.org/computer-vision-spring-2020-assignment-2/ to http://ccvcl.org/computer-vision-and-image-processing-spring-2020/computer-vision-spring-2020-assignment-2/
+01:36:11	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/computer-vision-and-image-processing-spring-2020/computer-vision-spring-2020-assignment3/
+01:36:11	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/computer-vision-and-image-processing-spring-2020/computer-vision-spring-2020-assignment3/ to http://ccvcl.org/
+01:36:11	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/computer-vision-and-image-processing-spring-2020/computer-vision-spring-2020-assignment-4/
+01:36:11	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/computer-vision-and-image-processing-spring-2020/computer-vision-spring-2020-assignment-4/ to http://ccvcl.org/
+01:36:11	Warning: 	Moved Permanently for ccvcl.org/?p=861
+01:36:11	Warning: 	File has moved from ccvcl.org/?p=861 to http://ccvcl.org/data-structures-spring-2020/
+01:36:11	Error: 	"Not Found" (404) at link ccvcl.org/data-structures-spring-2020/zzhu@ccny.cuny.edu (from ccvcl.org/data-structures-spring-2020/)
+01:36:11	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/data-structures-spring-2020/csc-212-assignment-1/
+01:36:11	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/data-structures-spring-2020/csc-212-assignment-1/ to http://ccvcl.org/
+01:36:11	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/data-structures-spring-2020/csc212-assignment-2/
+01:36:11	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/data-structures-spring-2020/csc212-assignment-2/ to http://ccvcl.org/
+01:36:11	Warning: 	Moved Permanently for ccvcl.org/csc212-assignment-3/
+01:36:11	Warning: 	File has moved from ccvcl.org/csc212-assignment-3/ to http://ccvcl.org/data-structures-spring-2020/csc212-assignment-3/
+01:36:13	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/data-structures-spring-2020/csc212-assignment-4/
+01:36:13	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/data-structures-spring-2020/csc212-assignment-4/ to http://ccvcl.org/
+01:36:13	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/data-structures-spring-2020/csc212-assignment-5/
+01:36:13	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/data-structures-spring-2020/csc212-assignment-5/ to http://ccvcl.org/
+01:36:13	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/data-structures-spring-2020/csc212-assignment-6/
+01:36:13	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/data-structures-spring-2020/csc212-assignment-6/ to http://ccvcl.org/
+01:36:13	Warning: 	Moved Permanently for ccvcl.org/?p=515
+01:36:13	Warning: 	File has moved from ccvcl.org/?p=515 to http://ccvcl.org/bat-branding-assistive-technologies-for-social-good/
+01:36:18	Warning: 	Moved Permanently for ccvcl.org/bat-2019-assignment-5/
+01:36:18	Warning: 	File has moved from ccvcl.org/bat-2019-assignment-5/ to http://ccvcl.org/bat-branding-assistive-technologies-for-social-good/bat-2019-assignment-5/
+01:36:19	Warning: 	Moved Permanently for ccvcl.org/bat-2019-assignment-6/
+01:36:19	Warning: 	File has moved from ccvcl.org/bat-2019-assignment-6/ to http://ccvcl.org/bat-branding-assistive-technologies-for-social-good/bat-2019-assignment-6/
+01:36:42	Warning: 	Retry after error -4 (No data (connection closed)) at link ccvcl.org/category/uncategorized/feed/ (from ccvcl.org/category/uncategorized/)
+01:36:44	Error: 	"Not Found" (404) at link ccvcl.org/favicon.ico (from ccvcl.org/~fhu/publications.html)
+01:37:00	Error: 	"Not Found" (404) at link ccvcl.org/media/css/style.css (from ccvcl.org/~fhu/publications.html)
+01:37:00	Error: 	"Not Found" (404) at link ccvcl.org/media/css/highlight.css (from ccvcl.org/~fhu/publications.html)
+01:37:00	Error: 	"Not Found" (404) at link ccvcl.org/media/js/jquery-1.7.1.min.js (from ccvcl.org/~fhu/publications.html)
+01:37:47	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/~fhu/Smart311.mp4 (from ccvcl.org/~fhu/)
+01:37:47	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/multimodal-collaborative-sensing-and-identification-using-deep-learning-for-intelligence-surveillance-and-reconnaissance-isr-applications/feed/ (from ccvcl.org/multimodal-collaborative-sensing-and-identification-using-deep-learning-for-intelligence-surveillance-and-reconnaissance-isr-applications/)
+01:38:06	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/course-and-program-assistive-technologies-for-the-blind/feed/ (from ccvcl.org/course-and-program-assistive-technologies-for-the-blind/)
+01:38:07	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/efri-m3c-map4vip-man-machine-co-learning-for-visually-impaired-people/feed/ (from ccvcl.org/efri-m3c-map4vip-man-machine-co-learning-for-visually-impaired-people/)
+01:40:06	Warning: 	Moved Permanently for ccvcl.org/?p=487
+01:40:06	Warning: 	File has moved from ccvcl.org/?p=487 to http://ccvcl.org/rem-2015/
+01:40:06	Warning: 	Retry after error -4 (No data (connection closed)) at link ccvcl.org/a-system-approach-to-adaptive-multi-modal-sensor-designs/feed/ (from ccvcl.org/a-system-approach-to-adaptive-multi-modal-sensor-designs/)
+01:40:07	Warning: 	Retry after error -4 (No data (connection closed)) at link ccvcl.org/nsf-computing-research-infrastructure-cri-program-center-of-perceptual-robotics-intelligent-sensors-and-machines-prism/feed/ (from ccvcl.org/nsf-computing-research-infrastructure-cri-program-center-of-perceptual-robotics-intelligent-sensors-and-machines-prism/)
+01:42:06	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/cb3m-content-based-3d-mosaics-with-dynamic-pushbroom-stereo/feed/ (from ccvcl.org/cb3m-content-based-3d-mosaics-with-dynamic-pushbroom-stereo/)
+01:42:07	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/cooperative-wall-climbing-robots-for-surveillance-and-target-tracking/feed/ (from ccvcl.org/cooperative-wall-climbing-robots-for-surveillance-and-target-tracking/)
+01:42:22	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/gamma-x-ray-linear-pushbroom-stereo-for-3d-cargo-inspection/feed/ (from ccvcl.org/gamma-x-ray-linear-pushbroom-stereo-for-3d-cargo-inspection/)
+01:44:06	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/ieee-nsf-workshop-on-multimodal-and-alternative-perception-for-visually-impaired-people-map4vip/feed/ (from ccvcl.org/ieee-nsf-workshop-on-multimodal-and-alternative-perception-for-visually-impaired-people-map4vip/)
+01:44:07	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/i-corpstransforming-2d-video-into-an-interactive-3d-viewing-experience/feed/ (from ccvcl.org/i-corpstransforming-2d-video-into-an-interactive-3d-viewing-experience/)
+01:44:24	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/2d-parallel-mosaics-for-under-vehicle-inspection/feed/ (from ccvcl.org/2d-parallel-mosaics-for-under-vehicle-inspection/)
+01:45:10	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/high-accuracy-on-line-measurement-system-of-important-parts/feed/ (from ccvcl.org/high-accuracy-on-line-measurement-system-of-important-parts/)
+01:46:06	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/panoramic-virtual-stereo-and-human-tracking-in-a-smart-room/feed/ (from ccvcl.org/panoramic-virtual-stereo-and-human-tracking-in-a-smart-room/)
+01:46:07	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/geo-registered-mosaicing-and-stereo-mosaicing-for-environmental-monitoring/feed/ (from ccvcl.org/geo-registered-mosaicing-and-stereo-mosaicing-for-environmental-monitoring/)
+01:46:24	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/prism-parallel-ray-interpolation-for-stereo-mosaicing/feed/ (from ccvcl.org/prism-parallel-ray-interpolation-for-stereo-mosaicing/)
+01:47:10	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/lamp-3d-layered-adaptive-resolution-and-multi-perspective-panorama/feed/ (from ccvcl.org/lamp-3d-layered-adaptive-resolution-and-multi-perspective-panorama/)
+01:48:06	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/post-visual-navigation-by-integrating-panoramic-vision-omnidirectional-vision-and-stereo-vision/feed/ (from ccvcl.org/post-visual-navigation-by-integrating-panoramic-vision-omnidirectional-vision-and-stereo-vision/)
+01:48:07	Warning: 	Retry after error -2 (Receive Time Out) at link ccvcl.org/localization-and-recognition-of-characters-and-numbers-on-moving-freight-trains/feed/ (from ccvcl.org/localization-and-recognition-of-characters-and-numbers-on-moving-freight-trains/)
+01:48:24	Warning: 	Moved Permanently for ccvcl.org/?p=3183
+01:48:24	Warning: 	File has moved from ccvcl.org/?p=3183 to http://ccvcl.org/csc-59866-7-capstone-i-ii-fall-2022-spring-2023/ccny-beat-2022-2023-projects-and-video/
+01:49:05	Warning: 	Moved Permanently for ccvcl.org/?p=2545
+01:49:05	Warning: 	File has moved from ccvcl.org/?p=2545 to http://ccvcl.org/professor-zhigang-zhu/csc-59866-7-capstone-i-ii-fall-2021-spring-2022/ccny-beat-2021-2022-projects-and-video/
+01:49:46	Warning: 	Moved Permanently for ccvcl.org/?p=1967
+01:49:46	Warning: 	File has moved from ccvcl.org/?p=1967 to http://ccvcl.org/csc-59866-7-capstone-i-ii-fall-2020-spring-2021/ccny-beat-2020-2021-projects-and-video/
+01:50:07	Warning: 	Moved Permanently for ccvcl.org/?p=1347
+01:50:07	Warning: 	File has moved from ccvcl.org/?p=1347 to http://ccvcl.org/bat-branding-assistive-technologies-for-social-good/beat-2019-2020-projects-and-video/
+01:50:07	Warning: 	Moved Permanently for ccvcl.org/?p=2683
+01:50:07	Warning: 	File has moved from ccvcl.org/?p=2683 to http://ccvcl.org/csc-59866-7-capstone-i-ii-fall-2022-spring-2023/fall-2022-capstone-proposal-presentation-suggestions/
+01:50:07	Warning: 	Moved Permanently for ccvcl.org/?p=3506
+01:50:07	Warning: 	File has moved from ccvcl.org/?p=3506 to http://ccvcl.org/beat-2023-assignment-4/
+01:50:07	Warning: 	Moved Permanently for ccvcl.org/?p=3511
+01:50:07	Warning: 	File has moved from ccvcl.org/?p=3511 to http://ccvcl.org/beat-2023-assignment-5/
+01:50:07	Warning: 	Moved Permanently for ccvcl.org/?p=3396
+01:50:07	Warning: 	File has moved from ccvcl.org/?p=3396 to http://ccvcl.org/csc-i6716-fall-2023-assignment-1/
+01:50:07	Warning: 	Moved Permanently for ccvcl.org/?p=3416
+01:50:07	Warning: 	File has moved from ccvcl.org/?p=3416 to http://ccvcl.org/csc-i6716-fall-2023-assignment-2/
+01:50:07	Warning: 	Moved Permanently for ccvcl.org/?p=3446
+01:50:07	Warning: 	File has moved from ccvcl.org/?p=3446 to http://ccvcl.org/csc-i6716-fall-2023-assignment-3/
+01:50:07	Warning: 	Moved Permanently for ccvcl.org/?p=3451
+01:50:07	Warning: 	File has moved from ccvcl.org/?p=3451 to http://ccvcl.org/csc-i6716-fall-2023-assignment-4/
+01:50:07	Warning: 	Moved Permanently for ccvcl.org/?p=2754
+01:50:07	Warning: 	File has moved from ccvcl.org/?p=2754 to http://ccvcl.org/professor-zhigang-zhu/human-computer-vision-with-advanced-topics-spring-2023/
+01:50:07	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/computer-vision-spring-2023-assignment-1/
+01:50:07	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/computer-vision-spring-2023-assignment-1/ to http://ccvcl.org/computer-vision-spring-2023-assignment-1/
+01:50:07	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/computer-vision-spring-2023-assignment-2/
+01:50:07	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/computer-vision-spring-2023-assignment-2/ to http://ccvcl.org/computer-vision-spring-2023-assignment-2/
+01:50:07	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/computer-vision-spring-2023-assignment-3/
+01:50:07	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/computer-vision-spring-2023-assignment-3/ to http://ccvcl.org/computer-vision-spring-2023-assignment-3/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=3070
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=3070 to http://ccvcl.org/csc212-assignment-6/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=2659
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=2659 to http://ccvcl.org/csc-59866-7-capstone-i-ii-fall-2022-spring-2023/zahn-innovation-center-fall-2022-events/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=2720
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=2720 to http://ccvcl.org/csc-59866-7-capstone-i-ii-fall-2022-spring-2023/beat-2022-assignment-5/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=2729
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=2729 to http://ccvcl.org/csc-59866-7-capstone-i-ii-fall-2022-spring-2023/beat-2022-assignment-6/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=2348
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=2348 to http://ccvcl.org/professor-zhigang-zhu/csc-471-computer-vision-spring-2022/csc-471-spring-2022-assignment-1/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=2372
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=2372 to http://ccvcl.org/professor-zhigang-zhu/csc-471-computer-vision-spring-2022/csc-471-spring-2022-assignment-2/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=2377
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=2377 to http://ccvcl.org/professor-zhigang-zhu/csc-471-computer-vision-spring-2022/csc-471-spring-2022-assignment-3/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=2382
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=2382 to http://ccvcl.org/professor-zhigang-zhu/csc-471-computer-vision-spring-2022/csc-471-spring-2022-assignment-4/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=2340
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=2340 to http://ccvcl.org/professor-zhigang-zhu/computer-vision-and-image-processing-spring-2022/computer-vision-spring-2022-assignment-1/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=2456
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=2456 to http://ccvcl.org/professor-zhigang-zhu/computer-vision-and-image-processing-spring-2022/computer-vision-spring-2022-assignment-2/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=2462
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=2462 to http://ccvcl.org/professor-zhigang-zhu/computer-vision-and-image-processing-spring-2022/computer-vision-spring-2022-assignment-3/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=2089
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=2089 to http://ccvcl.org/professor-zhigang-zhu/csc-59866-7-capstone-i-ii-fall-2021-spring-2022/capstone-proposal-presentation-suggestions/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=2213
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=2213 to http://ccvcl.org/professor-zhigang-zhu/csc-59866-7-capstone-i-ii-fall-2021-spring-2022/beat-2021-assignment-5/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=2216
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=2216 to http://ccvcl.org/professor-zhigang-zhu/csc-59866-7-capstone-i-ii-fall-2021-spring-2022/beat-2021-assignment-6/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=2152
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=2152 to http://ccvcl.org/professor-zhigang-zhu/computer-vision-fall-2021/csc-i6716-fall-2021-assignment-1/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=2156
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=2156 to http://ccvcl.org/professor-zhigang-zhu/computer-vision-fall-2021/csc-i6716-fall-2021-assignment-2/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=2183
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=2183 to http://ccvcl.org/professor-zhigang-zhu/computer-vision-fall-2021/csc-i6716-fall-2021-assignment-3/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=2208
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=2208 to http://ccvcl.org/professor-zhigang-zhu/computer-vision-fall-2021/csc-i6716-fall-2021-assignment-4/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=1455
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=1455 to http://ccvcl.org/computer-vision-and-image-processing-spring-2021/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/computer-vision-and-image-processing-spring-2021/computer-vision-spring-2021-assignment-1/
+01:50:13	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/computer-vision-and-image-processing-spring-2021/computer-vision-spring-2021-assignment-1/ to http://ccvcl.org/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/computer-vision-and-image-processing-spring-2021/computer-vision-spring-2021-assignment-2/
+01:50:13	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/computer-vision-and-image-processing-spring-2021/computer-vision-spring-2021-assignment-2/ to http://ccvcl.org/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/computer-vision-and-image-processing-spring-2021/computer-vision-spring-2021-assignment-3/
+01:50:13	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/computer-vision-and-image-processing-spring-2021/computer-vision-spring-2021-assignment-3/ to http://ccvcl.org/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=1579
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=1579 to http://ccvcl.org/data-structures-spring-2021/
+01:50:13	Error: 	"Not Found" (404) at link ccvcl.org/data-structures-spring-2021/zzhu@ccny.cuny.edu (from ccvcl.org/data-structures-spring-2021/)
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/data-structures-spring-2021/csc-212-assignment-1/
+01:50:13	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/data-structures-spring-2021/csc-212-assignment-1/ to http://ccvcl.org/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/data-structures-spring-2021/csc212-assignment-2/
+01:50:13	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/data-structures-spring-2021/csc212-assignment-2/ to http://ccvcl.org/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/data-structures-spring-2021/csc212-assignment-3/
+01:50:13	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/data-structures-spring-2021/csc212-assignment-3/ to http://ccvcl.org/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/data-structures-spring-2021/csc212-assignment-4/
+01:50:13	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/data-structures-spring-2021/csc212-assignment-4/ to http://ccvcl.org/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/data-structures-spring-2021/csc212-assignment-5/
+01:50:13	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/data-structures-spring-2021/csc212-assignment-5/ to http://ccvcl.org/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/data-structures-spring-2021/csc212-assignment-6/
+01:50:13	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/data-structures-spring-2021/csc212-assignment-6/ to http://ccvcl.org/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=1208
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=1208 to http://ccvcl.org/csc-59866-7-capstone-i-ii-fall-2020-spring-2021/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/csc-59866-7-capstone-i-ii-fall-2020-spring-2021/beat-presentation-suggestions/
+01:50:13	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/csc-59866-7-capstone-i-ii-fall-2020-spring-2021/beat-presentation-suggestions/ to http://ccvcl.org/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/csc-59866-7-capstone-i-ii-fall-2020-spring-2021/beat-2020-assignment-5/
+01:50:13	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/csc-59866-7-capstone-i-ii-fall-2020-spring-2021/beat-2020-assignment-5/ to http://ccvcl.org/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/csc-59866-7-capstone-i-ii-fall-2020-spring-2021/beat-2020-assignment-6/
+01:50:13	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/csc-59866-7-capstone-i-ii-fall-2020-spring-2021/beat-2020-assignment-6/ to http://ccvcl.org/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/?p=1194
+01:50:13	Warning: 	File has moved from ccvcl.org/?p=1194 to http://ccvcl.org/computer-vision-fall-2020/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/computer-vision-fall-2020/csc-i6716-fall-2020-assignment-1/
+01:50:13	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/computer-vision-fall-2020/csc-i6716-fall-2020-assignment-1/ to http://ccvcl.org/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/computer-vision-fall-2020/csc-i6716-fall-2020-assignment-2/
+01:50:13	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/computer-vision-fall-2020/csc-i6716-fall-2020-assignment-2/ to http://ccvcl.org/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/professor-zhigang-zhu/computer-vision-fall-2020/csc-i6716-fall-2020-assignment-3/
+01:50:13	Warning: 	File has moved from ccvcl.org/professor-zhigang-zhu/computer-vision-fall-2020/csc-i6716-fall-2020-assignment-3/ to http://ccvcl.org/
+01:50:13	Warning: 	Moved Permanently for ccvcl.org/csc-i6716-fall-2020-assignment-4/
+01:50:13	Warning: 	File has moved from ccvcl.org/csc-i6716-fall-2020-assignment-4/ to http://ccvcl.org/computer-vision-fall-2020/csc-i6716-fall-2020-assignment-4/
+01:50:15	Warning: 	Moved Permanently for ccvcl.org/?p=1145
+01:50:15	Warning: 	File has moved from ccvcl.org/?p=1145 to http://ccvcl.org/bat-branding-assistive-technologies-for-social-good/beat-project-video-2019-2020/
+01:50:17	Warning: 	Moved Permanently for ccvcl.org/?p=584
+01:50:17	Warning: 	File has moved from ccvcl.org/?p=584 to http://ccvcl.org/home/computer-vision-fall-2019/
+01:50:21	Error: 	"No data (connection closed)" (-4) after 2 retries at link ccvcl.org/category/uncategorized/feed/ (from ccvcl.org/category/uncategorized/)
+01:50:21	Error: 	"Not Found" (404) at link ccvcl.org/~fhu/Assignments/Assignment_Submission_System/light.css (from ccvcl.org/~fhu/Assignments/Assignment_Submission_System/download.html)
+01:50:22	Error: 	"Not Found" (404) at link ccvcl.org/~fhu/Sample_Code_CSc212/Lecture_12_Sample_Code/node2.tmplate (from ccvcl.org/~fhu/Sample_Code_CSc212/Lecture_12_Sample_Code/stack-ppt.html)
+01:50:22	Error: 	"Not Found" (404) at link ccvcl.org/~fhu/Sample_Code_CSc212/Lecture_12_Sample_Code/ââ (from ccvcl.org/~fhu/Sample_Code_CSc212/Lecture_12_Sample_Code/queue-ppt.html)
+01:50:22	Error: 	"No data (connection closed)" (-4) after 2 retries at link ccvcl.org/~fhu/Smart311.mp4 (from ccvcl.org/~fhu/)
+01:50:22	Error: 	"No data (connection closed)" (-4) after 2 retries at link ccvcl.org/multimodal-collaborative-sensing-and-identification-using-deep-learning-for-intelligence-surveillance-and-reconnaissance-isr-applications/feed/ (from ccvcl.org/multimodal-collaborative-sensing-and-identification-using-deep-learning-for-intelligence-surveillance-and-reconnaissance-isr-applications/)
+01:50:22	Error: 	"Receive Time Out" (-2) after 2 retries at link ccvcl.org/course-and-program-assistive-technologies-for-the-blind/feed/ (from ccvcl.org/course-and-program-assistive-technologies-for-the-blind/)
+01:50:22	Error: 	"Receive Time Out" (-2) after 2 retries at link ccvcl.org/efri-m3c-map4vip-man-machine-co-learning-for-visually-impaired-people/feed/ (from ccvcl.org/efri-m3c-map4vip-man-machine-co-learning-for-visually-impaired-people/)
+01:50:22	Error: 	"Receive Time Out" (-2) after 2 retries at link ccvcl.org/a-system-approach-to-adaptive-multi-modal-sensor-designs/feed/ (from ccvcl.org/a-system-approach-to-adaptive-multi-modal-sensor-designs/)
+01:50:22	Error: 	"Receive Time Out" (-2) after 2 retries at link ccvcl.org/nsf-computing-research-infrastructure-cri-program-center-of-perceptual-robotics-intelligent-sensors-and-machines-prism/feed/ (from ccvcl.org/nsf-computing-research-infrastructure-cri-program-center-of-perceptual-robotics-intelligent-sensors-and-machines-prism/)
+01:50:22	Error: 	"Receive Time Out" (-2) after 2 retries at link ccvcl.org/cb3m-content-based-3d-mosaics-with-dynamic-pushbroom-stereo/feed/ (from ccvcl.org/cb3m-content-based-3d-mosaics-with-dynamic-pushbroom-stereo/)
+01:50:22	Error: 	"Receive Time Out" (-2) after 2 retries at link ccvcl.org/cooperative-wall-climbing-robots-for-surveillance-and-target-tracking/feed/ (from ccvcl.org/cooperative-wall-climbing-robots-for-surveillance-and-target-tracking/)
+01:50:22	Error: 	"Receive Time Out" (-2) after 2 retries at link ccvcl.org/gamma-x-ray-linear-pushbroom-stereo-for-3d-cargo-inspection/feed/ (from ccvcl.org/gamma-x-ray-linear-pushbroom-stereo-for-3d-cargo-inspection/)
+01:50:22	Error: 	"Receive Time Out" (-2) after 2 retries at link ccvcl.org/ieee-nsf-workshop-on-multimodal-and-alternative-perception-for-visually-impaired-people-map4vip/feed/ (from ccvcl.org/ieee-nsf-workshop-on-multimodal-and-alternative-perception-for-visually-impaired-people-map4vip/)
+01:50:22	Error: 	"Receive Time Out" (-2) after 2 retries at link ccvcl.org/i-corpstransforming-2d-video-into-an-interactive-3d-viewing-experience/feed/ (from ccvcl.org/i-corpstransforming-2d-video-into-an-interactive-3d-viewing-experience/)
+01:50:22	Error: 	"Receive Time Out" (-2) after 2 retries at link ccvcl.org/2d-parallel-mosaics-for-under-vehicle-inspection/feed/ (from ccvcl.org/2d-parallel-mosaics-for-under-vehicle-inspection/)
+01:50:22	Error: 	"Receive Time Out" (-2) after 2 retries at link ccvcl.org/high-accuracy-on-line-measurement-system-of-important-parts/feed/ (from ccvcl.org/high-accuracy-on-line-measurement-system-of-important-parts/)
+01:50:22	Error: 	"Receive Time Out" (-2) after 2 retries at link ccvcl.org/panoramic-virtual-stereo-and-human-tracking-in-a-smart-room/feed/ (from ccvcl.org/panoramic-virtual-stereo-and-human-tracking-in-a-smart-room/)
+01:50:22	Error: 	"Receive Time Out" (-2) after 2 retries at link ccvcl.org/geo-registered-mosaicing-and-stereo-mosaicing-for-environmental-monitoring/feed/ (from ccvcl.org/geo-registered-mosaicing-and-stereo-mosaicing-for-environmental-monitoring/)
+01:50:22	Error: 	"Receive Time Out" (-2) after 2 retries at link ccvcl.org/prism-parallel-ray-interpolation-for-stereo-mosaicing/feed/ (from ccvcl.org/prism-parallel-ray-interpolation-for-stereo-mosaicing/)
+01:50:22	Error: 	"Receive Time Out" (-2) after 2 retries at link ccvcl.org/lamp-3d-layered-adaptive-resolution-and-multi-perspective-panorama/feed/ (from ccvcl.org/lamp-3d-layered-adaptive-resolution-and-multi-perspective-panorama/)
+01:50:22	Error: 	"Receive Time Out" (-2) after 2 retries at link ccvcl.org/post-visual-navigation-by-integrating-panoramic-vision-omnidirectional-vision-and-stereo-vision/feed/ (from ccvcl.org/post-visual-navigation-by-integrating-panoramic-vision-omnidirectional-vision-and-stereo-vision/)
+01:50:22	Error: 	"Receive Time Out" (-2) after 2 retries at link ccvcl.org/localization-and-recognition-of-characters-and-numbers-on-moving-freight-trains/feed/ (from ccvcl.org/localization-and-recognition-of-characters-and-numbers-on-moving-freight-trains/)
+01:50:25	Warning: 	Moved Permanently for ccvcl.org/?p=2904
+01:50:25	Warning: 	File has moved from ccvcl.org/?p=2904 to http://ccvcl.org/csc-212-assignment-1-spring-2023/
+01:50:26	Warning: 	Moved Permanently for ccvcl.org/?p=2953
+01:50:26	Warning: 	File has moved from ccvcl.org/?p=2953 to http://ccvcl.org/csc212-assignment-2-spring-2023/
+01:50:26	Warning: 	Moved Permanently for ccvcl.org/?p=2958
+01:50:26	Warning: 	File has moved from ccvcl.org/?p=2958 to http://ccvcl.org/csc212-assignment-3-spring-2023/
+01:50:26	Warning: 	Moved Permanently for ccvcl.org/?p=3009
+01:50:26	Warning: 	File has moved from ccvcl.org/?p=3009 to http://ccvcl.org/csc212-assignment-4-spring-2023/
+01:50:26	Warning: 	Moved Permanently for ccvcl.org/?p=3019
+01:50:26	Warning: 	File has moved from ccvcl.org/?p=3019 to http://ccvcl.org/csc212-assignment-5-spring-2023/
+01:50:27	Warning: 	Moved Permanently for ccvcl.org/?p=946
+01:50:27	Warning: 	File has moved from ccvcl.org/?p=946 to http://ccvcl.org/computer-vision-and-image-processing-spring-2020/computer-vision-spring-2020-assignment-2/
+01:50:27	Warning: 	Moved Permanently for ccvcl.org/?p=906
+01:50:27	Warning: 	File has moved from ccvcl.org/?p=906 to http://ccvcl.org/data-structures-spring-2020/csc212-assignment-3/
+01:50:27	Warning: 	Moved Permanently for ccvcl.org/?p=686
+01:50:27	Warning: 	File has moved from ccvcl.org/?p=686 to http://ccvcl.org/bat-branding-assistive-technologies-for-social-good/bat-2019-assignment-5/
+01:50:27	Warning: 	Moved Permanently for ccvcl.org/?p=689
+01:50:27	Warning: 	File has moved from ccvcl.org/?p=689 to http://ccvcl.org/bat-branding-assistive-technologies-for-social-good/bat-2019-assignment-6/
+01:50:27	Warning: 	Moved Permanently for ccvcl.org/?p=653
+01:50:27	Warning: 	File has moved from ccvcl.org/?p=653 to http://ccvcl.org/home/computer-vision-fall-2019/csc-i6716-fall-2019-assignment-1/
+01:50:27	Warning: 	Moved Permanently for ccvcl.org/?p=665
+01:50:27	Warning: 	File has moved from ccvcl.org/?p=665 to http://ccvcl.org/home/computer-vision-fall-2019/csc-i6716-fall-2019-assignment-2/
+01:50:27	Warning: 	Moved Permanently for ccvcl.org/?p=773
+01:50:27	Warning: 	File has moved from ccvcl.org/?p=773 to http://ccvcl.org/home/computer-vision-fall-2019/csc-i6716-fall-2019-assignment-3/
+01:50:27	Warning: 	Moved Permanently for ccvcl.org/?p=787
+01:50:27	Warning: 	File has moved from ccvcl.org/?p=787 to http://ccvcl.org/home/computer-vision-fall-2019/csc-i6716-fall-2019-assignment-4/
+01:50:27	Warning: 	Moved Permanently for ccvcl.org/?p=2875
+01:50:27	Warning: 	File has moved from ccvcl.org/?p=2875 to http://ccvcl.org/computer-vision-spring-2023-assignment-1/
+01:50:27	Warning: 	Moved Permanently for ccvcl.org/?p=2981
+01:50:27	Warning: 	File has moved from ccvcl.org/?p=2981 to http://ccvcl.org/computer-vision-spring-2023-assignment-2/
+01:50:27	Warning: 	Moved Permanently for ccvcl.org/?p=2992
+01:50:27	Warning: 	File has moved from ccvcl.org/?p=2992 to http://ccvcl.org/computer-vision-spring-2023-assignment-3/
+01:50:28	Warning: 	Moved Permanently for ccvcl.org/?p=1393
+01:50:28	Warning: 	File has moved from ccvcl.org/?p=1393 to http://ccvcl.org/computer-vision-fall-2020/csc-i6716-fall-2020-assignment-4/
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 hours 58 minutes 43 seconds : 1287 links scanned, 1058 files written (868886830 bytes overall) [866942201 bytes received at 24133 bytes/sec], 3596410 bytes transferred using HTTP compression in 168 files, ratio 31%, 2.9 requests per connection
+(33 errors, 346 warnings, 0 messages)
